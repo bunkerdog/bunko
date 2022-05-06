@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+    padding: 50px;
+}
+h1 {
+    height: 90px;
+    background-color: rgb(69, 138, 69);
+    margin: 0;
+    
+}
+.header {
+    font-family: ALBA____;
+    color: burlywood;
+    font-size: 80px;
+    font-weight: 700;
+    border-color: aquamarine;
+    
+    text-align: center;
+}
